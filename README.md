@@ -1,2 +1,2 @@
 # twiddle
-The Twiddle algorithm is a a parameter optimization heuristic
+The Twiddle algorithm is a parameter optimization heuristic
